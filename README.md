@@ -1,6 +1,6 @@
 #  Build a One-Page Website for a Task App
 
-[![IMAGE ALT TEXT HERE](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7351882624249864193?compact=1)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7351882624249864193?compact=1)
+[![IMAGE ALT TEXT HERE](https://github.com/Muzammil-khan-uni/One-Page-Website-for-a-Task-App-Using-React-CSS-Tailwind/blob/main/Output%20SS/Screenshot%202025-07-19%20190101.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7351882624249864193?compact=1)
 
 
 ![image alt](https://github.com/Muzammil-khan-uni/One-Page-Website-for-a-Task-App/blob/main/Output%20SS/SS1.png)
